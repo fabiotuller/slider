@@ -13,5 +13,7 @@ Este é um projeto de slider responsivo desenvolvido usando <b>[Tailwind CSS](ht
 ## Pré-requisitos
 Certifique-se de ter o <b>Tailwind CSS</b> e <b>Slick Carousel</b> instalados em seu projeto antes de começar.
 
+`npm install`
+
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este projeto.
